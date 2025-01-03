@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "reviung41-rescue")(type "KiCad")(uri "${KIPRJMOD}/reviung41-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "klor")(type "KiCad")(uri "${KIPRJMOD}/KLORlib.kicad_sym")(options "")(descr ""))
+)
