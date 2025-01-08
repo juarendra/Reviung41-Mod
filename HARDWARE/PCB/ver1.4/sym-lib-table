@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "reviung41-rescue")(type "KiCad")(uri "${KIPRJMOD}/reviung41-rescue.kicad_sym")(options "")(descr ""))
   (lib (name "klor")(type "KiCad")(uri "${KIPRJMOD}/KLORlib.kicad_sym")(options "")(descr ""))
+  (lib (name "JS102011")(type "KiCad")(uri "${KIPRJMOD}/lib/JS102011SAQN.kicad_sym")(options "")(descr ""))
+  (lib (name "gundam")(type "KiCad")(uri "${KIPRJMOD}/lib/gundam/gundam.kicad_sym")(options "")(descr ""))
 )

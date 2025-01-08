@@ -3,4 +3,6 @@
   (lib (name "sofle")(type "KiCad")(uri "${KIPRJMOD}/lib/SofleKeyboard-footprint.pretty")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/lib/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "klor")(type "KiCad")(uri "${KIPRJMOD}/lib/KLOR.pretty")(options "")(descr ""))
+  (lib (name "JS102011")(type "KiCad")(uri "${KIPRJMOD}/lib/JS102011")(options "")(descr ""))
+  (lib (name "gundam")(type "KiCad")(uri "${KIPRJMOD}/lib/gundam")(options "")(descr ""))
 )

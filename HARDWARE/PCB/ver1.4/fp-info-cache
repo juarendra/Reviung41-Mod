@@ -1,4 +1,4 @@
-21689955455207002
+21695092032580556
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59436,6 +59436,13 @@ THT
 0
 4
 2
+JS102011
+SW_JS102011SAQN
+
+
+0
+3
+3
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -90068,6 +90075,13 @@ varistor
 0
 2
 2
+gundam
+gundam
+
+
+0
+0
+0
 kbd
 Breakaway_Tabs
 
@@ -90271,6 +90285,13 @@ keyswitch_gateron_low_profile_hotswap_1u
 0
 2
 2
+keebio
+SW_JS102011SAQN
+
+
+0
+3
+3
 klor
 Buzzer_Mallory_AST1109MLTRQ_reversible
 Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
