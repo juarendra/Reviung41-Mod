@@ -5,4 +5,5 @@
   (lib (name "klor")(type "KiCad")(uri "${KIPRJMOD}/lib/KLOR.pretty")(options "")(descr ""))
   (lib (name "JS102011")(type "KiCad")(uri "${KIPRJMOD}/lib/JS102011")(options "")(descr ""))
   (lib (name "gundam")(type "KiCad")(uri "${KIPRJMOD}/lib/gundam")(options "")(descr ""))
+  (lib (name "_reviung-kbd")(type "KiCad")(uri "${KIPRJMOD}/lib/other")(options "")(descr ""))
 )

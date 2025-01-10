@@ -741,7 +741,7 @@
       "idf": "",
       "netlist": "reviung41.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../3D/reviung41.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
